@@ -1,0 +1,19 @@
+{
+  "productList": [
+    {
+      "id": 0,
+      "productMetadata": {
+        "company": "snikers",
+        "name": "snikers",
+        "kilos": "1.0"
+      },
+      "productStatus": "VERIFIED",
+      "productType": "MILK",
+      "price": 1,
+      "expirationDate": "Dec 26, 2020 2:55:38 AM",
+      "locationDescription": "На полке справа."
+    }
+  ],
+  "purse": 1,
+  "invoiceStatus": "PAYED"
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "productMetadata": {
+      "company": "snikers",
+      "name": "milkiway",
+      "kilos": "1.0"
+    },
+    "productStatus": "VERIFIED",
+    "productType": "MILK",
+    "price": 1,
+    "expirationDate": "Dec 26, 2020 2:55:25 AM",
+    "locationDescription": "На полке слева."
+  },
+  {
+    "id": 1,
+    "productMetadata": {
+      "company": "snikers",
+      "name": "milkiway",
+      "kilos": "1.0"
+    },
+    "productStatus": "VERIFIED",
+    "productType": "MILK",
+    "price": 1,
+    "expirationDate": "Dec 26, 2020 2:55:38 AM",
+    "locationDescription": "На полке слева."
+  }
+]
